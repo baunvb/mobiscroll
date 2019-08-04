@@ -1,0 +1,70 @@
+{
+  "_from": "https://npm.mobiscroll.com/@mobiscroll/react-trial/-/react-trial-4.7.3.tgz",
+  "_id": "@mobiscroll/react@4.7.3",
+  "_inBundle": false,
+  "_integrity": "sha512-jJfDWtRK5A2JXBENp/hiKwYSTxrKglmLhA2L8TV9iwvF4CVvZ3IPXeR7+dgmYom/SyPG2EtYsVfnMaTrBuDIqQ==",
+  "_location": "/@mobiscroll/react",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://npm.mobiscroll.com/@mobiscroll/react-trial/-/react-trial-4.7.3.tgz",
+    "rawSpec": "https://npm.mobiscroll.com/@mobiscroll/react-trial/-/react-trial-4.7.3.tgz",
+    "saveSpec": "https://npm.mobiscroll.com/@mobiscroll/react-trial/-/react-trial-4.7.3.tgz",
+    "fetchSpec": "https://npm.mobiscroll.com/@mobiscroll/react-trial/-/react-trial-4.7.3.tgz"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://npm.mobiscroll.com/@mobiscroll/react-trial/-/react-trial-4.7.3.tgz",
+  "_shasum": "c4c8bab0d645773dc69141d6e00d0ded055a2ffe",
+  "_spec": "https://npm.mobiscroll.com/@mobiscroll/react-trial/-/react-trial-4.7.3.tgz",
+  "_where": "G:\\code\\upde\\updepartner",
+  "author": {
+    "name": "Mobiscroll",
+    "url": "https://mobiscroll.com/"
+  },
+  "bugs": {
+    "url": "https://github.com/acidb/mobiscroll/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "React UI library for progressive web and hybrid apps",
+  "files": [
+    "dist/js/mobiscroll.react.js",
+    "dist/js/mobiscroll.react.min.js",
+    "dist/css/mobiscroll.scss",
+    "dist/css/mobiscroll.css",
+    "dist/css/mobiscroll.min.css",
+    "dist/css/icons_mobiscroll.ttf",
+    "dist/css/icons_mobiscroll.woff",
+    "dist/src/**"
+  ],
+  "homepage": "https://mobiscroll.com/",
+  "keywords": [
+    "mobile web",
+    "hybrid apps",
+    "javascript",
+    "mobiscroll",
+    "javascript library",
+    "react",
+    "component library",
+    "ui components",
+    "ui kit"
+  ],
+  "license": "Apache-2.0",
+  "main": "dist/js/mobiscroll.react.min.js",
+  "name": "@mobiscroll/react",
+  "peerDependencies": {
+    "react": ">=15.3.0",
+    "react-dom": ">=15.3.0",
+    "prop-types": ">=15.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acidb/mobiscroll.git"
+  },
+  "style": "dist/css/mobiscroll.min.css",
+  "typings": "dist/src/js/frameworks/react.d.ts",
+  "version": "4.7.3"
+}
