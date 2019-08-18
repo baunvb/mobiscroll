@@ -43,7 +43,7 @@ module.exports = {
 		boxSizing: 'content-box'
 	},
 	iconError: {
-		borderColor: '#d43f3a',
+		borderColor: '#FF7900',
 		animation: 'animateErrorIcon 0.5s'
 	},
 	iconErrorX: {
@@ -55,7 +55,7 @@ module.exports = {
 		position: 'absolute',
 		height: 5,
 		width: 47,
-		backgroundColor: '#d9534f',
+		backgroundColor: '#FF7900',
 		display: 'block',
 		top: 37,
 		borderRadius: 2
